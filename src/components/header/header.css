@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    height: 10%;
+    align-items: center;
+    justify-content: center;
+    background-color: cornflowerblue;
+}
+
+.header-name {
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+}
